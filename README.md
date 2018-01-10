@@ -1,2 +1,2 @@
 # Pigeon-api
-the node.js server used for the pigeon app
+the spring REST API used for the pigeon app
