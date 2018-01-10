@@ -12,3 +12,6 @@ dependency-reduced-pom.xml
 *.idea
 *.log
 Thumbs.db
+gradlew
+gradlew.bat
+/gradle
